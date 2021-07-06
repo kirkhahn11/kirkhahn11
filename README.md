@@ -22,10 +22,6 @@ My name is Kirk Hahn and I am a Software Engineer from Coahoma, Texas :us:. <br>
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/kirkhahn11/kirkhahn11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirkhahn11&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkhahn11&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkhahn11)](https://github.com/anuraghazra/github-readme-stats)
 
 
