@@ -2,7 +2,7 @@
 
 My name is Kirk Hahn and I am a Software Engineer from Coahoma, Texas :us:. <br> I have just completed a full-stack bootcamp through LearningFuze and I am looking for a full-time opportunity in the Austin, TX area. 
 
-Check out my resume here: [Kirk_Hahn's Resume!](https://github.com/kirkhahn11/kirkhahn11/files/6777769/Kirk_Hahn_Resume_Current.pdf)
+Check out my resume here: [Kirk Hahn's Resume!](https://github.com/kirkhahn11/kirkhahn11/files/6777769/Kirk_Hahn_Resume_Current.pdf)
 
 
 <a href="https://www.linkedin.com/in/kirk-hahn/">
