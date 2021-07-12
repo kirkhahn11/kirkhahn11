@@ -26,5 +26,5 @@ Check out my resume here: [Kirk Hahn's Resume!](https://github.com/kirkhahn11/ki
 
 ## &#x1f4c8; GitHub Stats
 
-[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkhahn11)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirkhahn11&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirkhahn11&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
